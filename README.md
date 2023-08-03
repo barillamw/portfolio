@@ -167,7 +167,7 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 ## Contact
 
-Your Name - mbarill@ncsu.edu.com
+Michael Barilla - mbarill@ncsu.edu.com
 
 Explore my journey, projects, and experiences through this Gatsby-powered portfolio website hosted on Azure. With Markdown-based content management and a captivating design, the site offers an interactive space to learn more about my professional endeavors. Whether you're a recruiter, a fellow developer, or simply curious, I invite you to explore the website and connect with me.
 
