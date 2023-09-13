@@ -1,0 +1,22 @@
+{
+  "intro": "Hey there!",
+  "heroPhoto": {
+    "src": "../../images/ProfessionalHeadshot_Square.jpg",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Michael",
+  "subtitle": {
+    "prefix": "Software Engineer",
+    "highlight": "",
+    "suffix": ""
+  },
+  "description": "A passionate and dedicated backend developer with a strong love for security focused design and socially conscious coding. Welcome to my digital space, where I'll take you on a journey through the world of backend development.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}
