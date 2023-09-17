@@ -12,8 +12,28 @@ export function ContactForm() {
   return (
     <div className = {classes.div_email} >
       <form onSubmit={handleSubmit} className={classes.Form}>
+      <label htmlFor="firstName">
+        First name
+      </label>
+      <input
+        id="firstName"
+        type="text" 
+        name="firstName"
+      />
+
+      <div className={classes.break_flex_horizontal} />
+      <label htmlFor="lastName">
+        Last Name
+      </label>
+      <input
+        id="lastName"
+        type="Text" 
+        name="lastName"
+      />
+
+      <div className={classes.break_flex} />
       <label htmlFor="email">
-        Email Address
+        Your Email
       </label>
       <input
         id="email"

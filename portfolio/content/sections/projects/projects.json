@@ -2,46 +2,42 @@
   "projects": [
     {
       "visible": true,
-      "category": "Workout Tracking App",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Mobile Application",
+      "title": "Workout Tracking App",
+      "description": "A comprehensive solution for logging and managing workout routines and exercises. Built on Django, this RESTful API provides a robust backend to support your fitness journey. With a MySQL Server database and future plans for a Flutter UI, this API is designed to seamlessly track and visualize your workout progress.",
+      "tags": ["RESTful API", "Python"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "src": "../../images/workoutBuddy_lifting.jpg",
+        "alt": "Workout",
         "linkTo": "/projects/workout-buddy"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/barillamw/Project-WorkoutTrackingAPI"
         }
       ]
     },
     {
       "visible": true,
-      "category": "Plant App?",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "IoT Device & Mobile Application",
+      "title": "Plant Care System",
+      "description": "Say goodbye to plant neglect and hello to healthier, happier indoor gardens. Designed with Kotlin, this mobile application is your gateway to nurturing your houseplants like a pro. Pairing seamlessly with a Raspberry Pi running a Python server and microcontrollers programmed in C, it's the ultimate tool for green thumbs. From monitoring soil moisture to adjusting lighting, our app puts plant care at your fingertips.",
+      "tags": ["Microcontrollers", "Mobile Application", "Python"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout",
-        "linkTo": "/projects/workout-buddy"
+        "src": "../../images/plants.jpg",
+        "alt": "Plants",
+        "linkTo": "/projects/plant-care-system"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/barillamw/Project-PlantCareApp"
         }
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "Third App",
       "title": "Add more sections!",
       "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",

@@ -3,56 +3,56 @@
     {
       "label": "Python",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/skills/python.png",
         "alt": ""
       }
     },
     {
       "label": "C & C++",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/skills/C.png",
         "alt": ""
       }
     },
     {
       "label": "Azure",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/skills/azure.png",
         "alt": ""
       }
     }, 
     {
       "label": "SQL",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/skills/sql.png",
         "alt": ""
       }
     },
     {
       "label": "Django",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/skills/django.png",
         "alt": ""
       }
     },
     {
       "label": "Gatsby",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/skills/gatsby.png",
         "alt": ""
       }
     },
     {
       "label": "Flutter",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/skills/flutter.png",
         "alt": ""
       }
     },
     {
       "label": "Docker",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/skills/docker.png",
         "alt": ""
       }
     }
