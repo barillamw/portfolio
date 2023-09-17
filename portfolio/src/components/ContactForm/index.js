@@ -10,7 +10,6 @@ export function ContactForm() {
       return <p>Thank you for your email!</p>;
   }
   return (
-    <div className = {classes.div_email} >
       <form onSubmit={handleSubmit} className={classes.Form}>
       <label htmlFor="firstName">
         First name
@@ -66,6 +65,5 @@ export function ContactForm() {
       </button>
       
     </form>
-    </div>
   );
 }
