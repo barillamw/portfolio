@@ -17,7 +17,7 @@ keywords:
 ---
 
 ## Problem Statement
-Traditionally, workouts have been tracked with notebooks and pencils. This manual process makes repeating workouts difficult and requires people to bring additional supplies to the gym with them. The manfagement of workouts can be streamlined and integrated into devices that users already take to the gym for a more seamless experience when working out.
+Traditionally, workouts have been tracked with notebooks and pencils. This manual process makes repeating workouts difficult and requires people to bring additional supplies to the gym with them. The management of workouts can be streamlined and integrated into devices that users already take to the gym for a more seamless experience when working out.
 
 ## Solution Overview
 A comprehensive solution for logging and managing workout routines and exercises. Built on Django, this RESTful API provides a robust backend to support your fitness journey. With a MySQL Server database and future plans for a Flutter UI, this API is designed to seamlessly track and visualize your workout progress.
