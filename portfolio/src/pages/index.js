@@ -12,7 +12,7 @@ import { Seo } from '../components/Seo'
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="MB Portfolio" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
 
