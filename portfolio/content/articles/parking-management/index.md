@@ -22,7 +22,7 @@ In response to the diverse parking needs of a university community comprising st
 ## Solution Overview
 An all-encompassing solution for streamlining parking management within university campuses. Leveraging Django, our RESTful API constitutes a sturdy backend infrastructure catering to diverse parking needs. Backed by a MySQL Server database, our solution efficiently handles parking permits and tickets for students, visitors, and employees. Furthermore, with future integration plans for a Flutter UI, this API promises to deliver a seamless user experience while tracking and visualizing parking activities, aiming to optimize campus parking operations.
 
-[Check Out My Code!](https://github.com/barillamw/Project-WorkoutTrackingAPI)
+[Check Out My Code!](https://github.com/barillamw/Project-ParkingManagement)
 
 ### MariaDB Backend
 Tables for various use cases were meticulously organized within the MariaDB backend, ensuring adherence to the Third Normal Form for optimal database efficiency.
