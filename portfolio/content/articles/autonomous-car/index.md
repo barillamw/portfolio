@@ -1,6 +1,6 @@
 ---
 title: "Code in Motion: Unveiling the Programming Behind a Self-Driving Car Project"
-description: "Explore the intricate coding journey of a self-driving car project, programmed in C++ and steered by a custom Python application for optimal control.""
+description: "Explore the intricate coding journey of a self-driving car project, programmed in C++ and steered by a custom Python application for optimal control."
 date: "2019-05-01"
 banner:
   src: "../../images/car.jpg"
