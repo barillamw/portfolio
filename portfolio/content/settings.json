@@ -1,13 +1,12 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://portfolio.barillamw.com/",
     "title": "Michael Barilla's Portfolio",
     "titleTemplate": "%s",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "A software developer's portfolio",
     "author": "Michael Barilla",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "Here is a footer.",
+    "bio": "",
     "social": {
       "github": "https://github.com/barillamw",
       "medium": "https://medium.com/@mwbarilla",
@@ -20,7 +19,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Skills", "url": "/#skills" },
-        { "label": "Projects", "url": "/#projects" },
+        { "label": "Projects", "url": "/projects" },
         { "label": "Contact", "url": "/contact"}
       ],
       "ctaButton": {

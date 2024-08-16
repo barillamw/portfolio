@@ -15,6 +15,27 @@
       }
     },
     {
+      "label": "React",
+      "image": {
+        "src": "../../images/skills/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/skills/typescript.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/skills/java.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Azure",
       "image": {
         "src": "../../images/skills/azure.png",
@@ -53,6 +74,13 @@
       "label": "Docker",
       "image": {
         "src": "../../images/skills/docker.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Terraform",
+      "image": {
+        "src": "../../images/skills/terraform.png",
         "alt": ""
       }
     }
