@@ -1,5 +1,5 @@
 ---
-title: "WordleMaster: Enhancing Word Game Experience with Data Persistence"
+title: "WordleClone: Enhancing Word Game Experience with Data Persistence"
 description: "Explore the development journey of a captivating word game application that features seamless data persistence, intuitive daily streak tracking, and an interactive user interface built with React and Tailwind CSS."
 date: "2024-08-08"
 banner:
