@@ -2,6 +2,42 @@
   "projects": [
     {
       "visible": true,
+      "category": "AI Research",
+      "title": "Navigating the Complexities of Natural Language Inference with BERT",
+      "description": "Explore the intricate challenges of implementing Natural Language Inference (NLI) using the BERT model. This project delves into the nuances of language understanding, scrutinizing the assumptions and methods employed, while emphasizing the importance of external validation, iterative refinement, and transparency in responsible NLP model deployment.",
+      "tags": ["NLP", "Machine Learning"],
+      "image": {
+        "src": "../../images/markus-spiske-iar-afB0QQw-unsplash.jpg",
+        "alt": "Image of code on a screen",
+        "linkTo": "/projects/llm-research"
+      },
+      "links": [
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Web Application",
+      "title": "Wordle Clone",
+      "description": "Explore the development journey of a captivating word game application that features seamless data persistence, intuitive daily streak tracking, and an interactive user interface built with React and Tailwind CSS.",
+      "tags": ["React", "Tailwind CSS"],
+      "image": {
+        "src": "../../images/nils-huenerfuerst-E-IQ1nbpzZo-unsplash.jpg",
+        "alt": "Image of World Screen",
+        "linkTo": "/projects/wordle-clone"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/barillamw/Projct-WordleClone"
+        },
+        {
+          "type": "external",
+          "url": "https://wordle.demo.barillamw.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Mobile Application",
       "title": "Workout Tracking App",
       "description": "A comprehensive solution for logging and managing workout routines and exercises. Built on Django, this RESTful API provides a robust backend to support your fitness journey. With a MySQL Server database and future plans for a Flutter UI, this API is designed to seamlessly track and visualize your workout progress.",
@@ -15,42 +51,6 @@
         {
           "type": "github",
           "url": "https://github.com/barillamw/Project-WorkoutTrackingAPI"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "IoT Device & Mobile Application",
-      "title": "Plant Care System",
-      "description": "Say goodbye to plant neglect and hello to healthier, happier indoor gardens. Designed with Kotlin, this mobile application is your gateway to nurturing your houseplants like a pro. Pairing seamlessly with a Raspberry Pi running a Python server and microcontrollers programmed in C, it's the ultimate tool for green thumbs. From monitoring soil moisture to adjusting lighting, our app puts plant care at your fingertips.",
-      "tags": ["Microcontrollers", "Mobile Application", "Python"],
-      "image": {
-        "src": "../../images/plants.jpg",
-        "alt": "Plants",
-        "linkTo": "/projects/plant-care-system"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/barillamw/Project-PlantCareApp"
-        }
-      ]
-    },
-    {
-      "visible": false,
-      "category": "Third App",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout",
-        "linkTo": "/projects/workout-buddy"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
       ]
     }
