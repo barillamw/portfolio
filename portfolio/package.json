@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "gatsby-development-portfolio",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Portfolio for Software Development",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
@@ -18,27 +18,5 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
-  "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
-  },
-  "keywords": [
-    "react",
-    "gatsby",
-    "gatsby-theme",
-    "PWA",
-    "portfolio",
-    "showcase",
-    "minimal",
-    "animations",
-    "dark-mode",
-    "gdpr-compliant"
-  ]
+  "author": "Michael Barilla"
 }
